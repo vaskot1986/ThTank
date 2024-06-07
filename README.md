@@ -18,7 +18,7 @@ ThTank was developed and implemented during 2015-2016 at Cologne Technical Unive
 
 ### 1.4 Contact
 For any further requests, technical support, or bug reports, feel free to contact:
-- Arnau VÃ¡zquez-Giner, vazquez.arnau@gmail.com
+- Arnau Vázquez-Giner, vazquez.arnau@gmail.com
 
 For software updates and further information visit:
 - [ThTank Project Page](http://www.audiogroup.web.th-koeln.de)
@@ -31,17 +31,17 @@ For software updates and further information visit:
 
 ### 2.2 Building from Source
 1. Clone the repository:
-   \`\`\`sh
-   git clone https://github.com/yourusername/ThTank.git
-   \`\`\`
+   \\\sh
+   git clone https://github.com/vaskot1986/ThTank.git
+   \\\
 2. Navigate to the project directory:
-   \`\`\`sh
+   \\\sh
    cd ThTank
-   \`\`\`
+   \\\
 3. Open the project with Qt Creator:
-   \`\`\`sh
+   \\\sh
    qtcreator ThTank.pro
-   \`\`\`
+   \\\
 4. Configure the project and ensure all dependencies are met.
 5. Build and run the project from Qt Creator.
 
